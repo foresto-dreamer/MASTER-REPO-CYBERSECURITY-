@@ -1,6 +1,6 @@
-# Prodigy Infotech Cybersecurity Internship
+# Cybersecurity
 
-This repository serves as an index for all the tasks I completed during my internship with **Prodigy Infotech**.
+This repository serves as an index for all the codes work related to **Cybersecurity**.
 
 ## Tasks
 
